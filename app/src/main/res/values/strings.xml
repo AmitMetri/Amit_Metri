@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TestApplicationOpen</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="departure_on">Departure on</string>
+    <string name="min">min</string>
+    <string name="generic_error">Something went wrong!</string>
+    <string name="routes">Routes</string>
+    <string name="no_trips_today">No trips today!</string>
+    <string name="no_network">No network!</string>
+    <string name="connect_to_network">Please check internet connection.</string>
+    <string name="error">Error!</string>
+    <string name="retry">RETRY</string>
+
+</resources>
